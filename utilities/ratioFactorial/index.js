@@ -5,4 +5,4 @@ const ratioAndFact = (a1, a2, a3) => {
   let factorial = factorialOfNumber(a3);
   return { ratio, factorial };
 };
-module.exports = ratioAndFact(4, 2, 1);
+module.exports = ratioAndFact;
